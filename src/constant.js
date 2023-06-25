@@ -1,0 +1,1 @@
+export const jobImage='/assets/job.png'
