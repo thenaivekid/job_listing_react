@@ -2,8 +2,8 @@
 
 A web app that shows the job listing with feature to filter jobs.
 
-<img src="code-challenge.webp">
-<img src="code-challenge-filter-active-states.webp">
+<img src="ss0.png">
+<img src="ss1.png">
 
 ## Data from
 
